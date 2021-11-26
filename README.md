@@ -1,4 +1,4 @@
-### Olá Eu sou o Petterson Padilha 🤚
+### Olá Eu sou o Petterson Oliveira 🤚
 
 ![Petterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pettersonPadilha&show_icons=true&theme=radical)
 
