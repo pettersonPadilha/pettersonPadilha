@@ -1,6 +1,7 @@
 ### Olá Eu sou o Petterson Oliveira 🤚
 
 ![Petterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pettersonPadilha&show_icons=true&theme=radical)
+<img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettersonPadilha&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ## Tecnologias que eu uso no meu dia
