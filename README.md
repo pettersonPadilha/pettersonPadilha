@@ -1,7 +1,9 @@
 ### Olá Eu sou o Petterson Oliveira 🤚
-
-![Petterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=pettersonPadilha&show_icons=true&theme=radical)
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img  height="190em" src="https://github-readme-stats.vercel.app/api?username=pettersonPadilha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"padding-right:10px/>
+<img align="right"height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettersonPadilha&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 ## Tecnologias que eu uso no meu dia
