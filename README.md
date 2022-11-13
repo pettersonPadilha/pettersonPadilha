@@ -1,8 +1,8 @@
 ### Olá Eu sou o Petterson Oliveira 🤚
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img  height="130em" src="https://github-readme-stats.vercel.app/api?username=pettersonPadilha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"padding-right:10px/>
-<img align="right"height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettersonPadilha&layout=compact&langs_count=7&theme=radical"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pettersonPadilha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"padding-right:10px/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pettersonPadilha&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
