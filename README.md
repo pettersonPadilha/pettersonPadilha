@@ -15,11 +15,9 @@
   
 ## Minhas Skills:
   
-  minhas Stack: 
-  HTML5,CSS-3,JavaScript,React-JS,Next-JS,Jquery
-  
-  BootSrap,styled-components,tailwind-css
-  
+  Minhas Stack: 
+  HTML5,CSS-3,JavaScript,React-JS,Next-JS,Jquery </br>
+  BootSrap,styled-components,tailwind-css </br>
   PHP,MySQL,PostgreSQL,Sqlite,Firebase,MongoDB
   
 
