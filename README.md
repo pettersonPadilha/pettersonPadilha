@@ -8,8 +8,11 @@
 </div>
   
 ## Sobre mim:
-  Estudando Analise de desenvolviento de sistema 3/4
+  Sou apaixonado por tecnologia, estou sempre buscando </br>
+  conhecer novas tecnologia, buscando melhorar meus conhecimento.  </br>
+  Um programador fullStack em desenvolvimento....
   
+  Estudando Analise de desenvolviento de sistema 3/4
   Aprendendo node-JS, React-native
 <div styled="display: incline_block"><br/>
   
