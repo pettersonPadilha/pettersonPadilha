@@ -12,8 +12,8 @@
   conhecer novas tecnologia, buscando melhorar meus conhecimento.  </br>
   Um programador fullStack em desenvolvimento....
   
-  Estudando Analise de desenvolviento de sistema 3/4
-  Aprendendo node-JS, React-native
+  Estudando Analise de desenvolviento de sistema 3/4 </br>
+  Aprendendo Node-JS, React-native
 <div styled="display: incline_block"><br/>
   
 ## Minhas Skills:
