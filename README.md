@@ -8,6 +8,9 @@
 </div>
   
 ## Sobre mim:
+  Estudando Analise de desenvolviento de sistema 3/4
+  
+  Aprendendo node-JS, React-native
 <div styled="display: incline_block"><br/>
   
 ## Minhas Skills:
