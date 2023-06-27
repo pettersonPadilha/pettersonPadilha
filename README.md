@@ -19,9 +19,9 @@
 ## Minhas Skills:
   
   Minhas Stack: 
-  HTML5,CSS-3,JavaScript,React-JS,Next-JS,Jquery </br>
-  BootSrap,styled-components,tailwind-css </br>
-  PHP,MySQL,PostgreSQL,Sqlite,Firebase,MongoDB
+  HTML5,CSS-3,JavaScript,React-JS,Next-JS, </br>
+  ,styled-components,tailwind-css </br>
+  ,MySQL,PostgreSQL,Sqlite,MongoDB
   <div styled="display: incline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="html" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
