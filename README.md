@@ -20,7 +20,7 @@
   
   Minhas Stack: 
   HTML5,CSS-3,JavaScript,React-JS,Next-JS, </br>
-  ,styled-components,tailwind-css </br>
+  styled-components,tailwind-css </br>
   ,MySQL,PostgreSQL,Sqlite,MongoDB
   <div styled="display: incline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
