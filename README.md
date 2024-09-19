@@ -8,12 +8,9 @@
 </div>
   
 ## Sobre mim:
-  Sou apaixonado por tecnologia, estou sempre buscando </br>
-  conhecer novas tecnologia, buscando melhorar meus conhecimento.  </br>
-  Um programador fullStack em desenvolvimento....
+  Sou apaixonado por tecnologia, sempre em busca de novas ferramentas e tendências para aprimorar meus conhecimentos. Como desenvolvedor full-stack em constante evolução, estou comprometido com o aprendizado contínuo e o desenvolvimento de soluções inovadoras.
   
-  Estudando Analise de desenvolviento de sistema 3/4 </br>
-  Aprendendo Node-JS, React-native
+
 
   
 ## Minhas Skills:
