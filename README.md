@@ -96,23 +96,5 @@ em vez de entregar só o código e ir embora.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pettersonPadilha&theme=radical" alt="Resumo do perfil"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pettersonPadilha&theme=radical" alt="Repositórios por linguagem"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pettersonPadilha&theme=radical" alt="Linguagens mais usadas em commits"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pettersonPadilha&theme=radical" alt="Estatísticas"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pettersonPadilha&theme=radical&utcOffset=-4" alt="Horários mais produtivos"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pettersonPadilha&theme=radical&hide_border=true" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettersonPadilha&theme=redical&hide_border=true&area=true" alt="Gráfico de atividade"/>
 </p>
