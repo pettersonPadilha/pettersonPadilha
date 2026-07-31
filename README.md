@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>Full Stack Software Engineer</b><br/>
-  Node.js · NestJS · React · Next.js · React Native<br/>
-  <sub>Sorriso, Mato Grosso — Brasil · Disponível para projetos remotos</sub>
+  Node.js · NestJS · React · Next.js · React Native
 </p>
 
 <p align="center">
