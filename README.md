@@ -12,9 +12,6 @@
   <a href="mailto:petterson_sorriso@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-  <a href="https://agro.page">
-    <img src="https://img.shields.io/badge/Projeto%20no%20ar-agro.page-2E7D32?style=for-the-badge" alt="agro.page"/>
-  </a>
 </p>
 
 ---
