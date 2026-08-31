@@ -87,21 +87,3 @@ o erro custa caro.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Arquitetura** — Clean Architecture, SOLID, Design Patterns, modularização por domínio,
-injeção de dependência, monorepo (pnpm/Turborepo), testes automatizados, code review
-
-**Complementar** — Java, C#, PHP, Laravel, Vue.js, Angular, Kubernetes
-
----
-
-## Formação
-
-- **Pós-graduação em Engenharia de Software** — Faculdade Anhanguera de Campinas · 2023 – 2024
-- **Bacharelado em Análise e Desenvolvimento de Sistemas** — Faculdade Anhanguera de Campinas · 2015 – 2022
-
----
-
-<p align="center">
-  <sub>Sorriso — MT, Brasil · disponível para projetos remotos</sub>
-</p>
